@@ -10,4 +10,4 @@ About me
 - 🔭 I’m currently working on ... College
 - 🌱 I’m currently learning ... Natural language processing
 
-[![My Skills](https://skillicons.dev/icons?i=c, cpp, discord, git, github, java, linux, py, r, vscode, )](https://skillicons.dev)
+[[My Skills](https://skillicons.dev/icons?i=c, cpp, discord, git, github, java, linux, py, r, vscode, )](https://skillicons.dev)
